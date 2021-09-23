@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [params]
-  description = "Your site description"
+  description = "Networking and Notes"
   copyright = "Copyright © 2021 Blake Reitzammer"
   dark = "auto"
   highlight = true
