@@ -25,7 +25,7 @@
     </nav>
 </header>
 <main id="content">
-<p>Useful information that I've come across.</p>
+<p>This is some info about me.</p>
 <h3>Posts</h3>
 <ul id="posts">
     <li>
@@ -59,7 +59,7 @@
 </ul>
 
         </main><footer id="footer">
-    Copyright © Blake Reitzammer
+    Copyright © 2021 Your Name
 </footer>
 </body>
 </html>
